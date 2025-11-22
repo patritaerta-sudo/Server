@@ -1,0 +1,50 @@
+[10:29:07] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[10:29:07] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.8
+[10:29:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:29:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:29:16] [main/INFO]: Loaded 1407 recipes
+[10:29:16] [main/INFO]: Loaded 1520 advancements
+[10:29:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[10:29:16] [Server thread/INFO]: Loading properties
+[10:29:16] [Server thread/INFO]: Default game type: SURVIVAL
+[10:29:16] [Server thread/INFO]: Generating keypair
+[10:29:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:29:16] [Server thread/INFO]: Using epoll channel type
+[10:29:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:29:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:29:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:29:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:29:16] [Server thread/INFO]: Preparing level "world"
+[10:29:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:29:20] [Server thread/INFO]: Time elapsed: 3932 ms
+[10:29:20] [Server thread/INFO]: Done (4.240s)! For help, type "help"
+[10:30:01] [Server thread/INFO]: Mathi_VM[/127.110.233.227:58555] logged in with entity id 13 at (18.5, 65.0, -50.5)
+[10:30:01] [Server thread/INFO]: Mathi_VM joined the game
+[10:32:28] [Server thread/INFO]: Mathi_VM lost connection: Disconnected
+[10:32:28] [Server thread/INFO]: Mathi_VM left the game
+[10:33:01] [Server thread/INFO]: Mathi_VM[/127.110.233.227:40255] logged in with entity id 1263 at (107.21452128634891, 66.0, -63.28660162156557)
+[10:33:01] [Server thread/INFO]: Mathi_VM joined the game
+[10:36:07] [Server thread/INFO]: Mathi_VM was shot by Skeleton
+[10:36:12] [Server thread/INFO]: Mathi_VM fell from a high place
+[10:37:41] [Server thread/INFO]: Mathi_VM lost connection: Disconnected
+[10:37:41] [Server thread/INFO]: Mathi_VM left the game
+[10:38:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:46:07] [Server thread/INFO]: Mathi_VM[/127.110.233.227:56259] logged in with entity id 3698 at (381.6072977026984, 64.0, -43.9486570393416)
+[10:46:07] [Server thread/INFO]: Mathi_VM joined the game
+[10:47:22] [Server thread/INFO]: Mathi_VM was shot by Skeleton
+[10:47:56] [Server thread/INFO]: Mathi_VM was shot by Skeleton
+[10:48:43] [Server thread/INFO]: Mathi_VM lost connection: Disconnected
+[10:48:43] [Server thread/INFO]: Mathi_VM left the game
+[10:49:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
