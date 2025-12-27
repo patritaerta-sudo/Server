@@ -1,0 +1,42 @@
+[27Dec2025 00:03:29.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wimiloz[/127.16.244.223:33271] logged in with entity id 2372 at (-498.8088602233603, 68.1212968405392, 4561.556137035311)
+[27Dec2025 00:03:29.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz joined the game
+[27Dec2025 00:16:29.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-524, y=62, z=4594} BlockPos{x=-521, y=63, z=4594}
+[27Dec2025 00:18:05.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mathi_VM[/127.45.178.132:39797] logged in with entity id 7049 at (-845.0800898338575, 63.0, 4803.676681436694)
+[27Dec2025 00:18:05.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM joined the game
+[27Dec2025 00:18:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> eu
+[27Dec2025 00:18:39.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> dodne estás?
+[27Dec2025 00:18:48.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mathi_VM> en una jungla
+[27Dec2025 00:19:03.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> hay que hacer una granja de hierro
+[27Dec2025 00:19:11.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mathi_VM> yes
+[27Dec2025 00:19:18.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mathi_VM> yo tengo las tolvas
+[27Dec2025 00:19:21.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> good
+[27Dec2025 00:19:34.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> metete al dc
+[27Dec2025 00:19:43.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mathi_VM> hay me mto
+[27Dec2025 00:20:43.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mathi_VM lost connection: Disconnected
+[27Dec2025 00:20:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM left the game
+[27Dec2025 00:26:35.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mathi_VM[/127.45.178.132:57861] logged in with entity id 10741 at (-803.0166444786526, 91.0, 4828.357837132537)
+[27Dec2025 00:26:35.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM joined the game
+[27Dec2025 00:26:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> dale mathisito
+[27Dec2025 00:26:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wimiloz> dc
+[27Dec2025 00:27:46.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mathi_VM lost connection: Disconnected
+[27Dec2025 00:27:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM left the game
+[27Dec2025 00:27:59.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wimiloz lost connection: Disconnected
+[27Dec2025 00:27:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz left the game
+[27Dec2025 00:28:01.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mathi_VM[/127.45.178.132:52051] logged in with entity id 11592 at (-803.8878781438375, 90.0, 4829.080089395483)
+[27Dec2025 00:28:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM joined the game
+[27Dec2025 00:28:07.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=89, z=4828} BlockPos{x=-806, y=86, z=4828}
+[27Dec2025 00:28:09.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wimiloz[/127.16.244.223:57513] logged in with entity id 11877 at (-744.39530129072, 70.0, 4745.821823604972)
+[27Dec2025 00:28:09.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz joined the game
+[27Dec2025 00:28:43.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=81, z=4828} BlockPos{x=-806, y=78, z=4828}
+[27Dec2025 00:28:58.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mathi_VM lost connection: Disconnected
+[27Dec2025 00:28:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM left the game
+[27Dec2025 00:33:25.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wimiloz lost connection: Disconnected
+[27Dec2025 00:33:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz left the game
+[27Dec2025 00:33:25.459] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Dec2025 00:34:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[27Dec2025 00:35:08.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] semen
+[27Dec2025 01:18:53.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mathi_VM[/127.45.178.132:35429] logged in with entity id 13127 at (-804.2693694776959, 79.0, 4829.1766113428375)
+[27Dec2025 01:18:53.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM joined the game
+[27Dec2025 01:19:59.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mathi_VM lost connection: Disconnected
+[27Dec2025 01:19:59.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM left the game
+[27Dec2025 01:20:59.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
